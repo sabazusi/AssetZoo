@@ -1,0 +1,19 @@
+{
+  "name": "assetzoo",
+  "version": "1.0.0",
+  "description": "`/magica` MagicaVoxel works. <a href=\"https://ephtracy.github.io/\">https://ephtracy.github.io/</a>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sabazusi/assetzoo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sabazusi/assetzoo/issues"
+  },
+  "homepage": "https://github.com/sabazusi/assetzoo#readme"
+}
